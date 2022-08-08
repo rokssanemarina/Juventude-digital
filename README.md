@@ -1,2 +1,2 @@
-# juventude
-projeto de html/css
+# Juventude Digital ;D
+Projeto de HTML/CSS
